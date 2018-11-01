@@ -1,0 +1,10 @@
+# Site settings
+title: IBM Cloud Docker Containers
+tag_text: IBM Cloud Containers
+description: A listing of IBM Cloud Docker Containers that are supported by JJ Asghar.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
