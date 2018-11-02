@@ -1,11 +1,8 @@
-## Deprecated: Use my new theme "Duo" instead:
+# IBM Cloud Containers
 
-[https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
+This is the website that runs <https://jjasghar.github.io/ibm-docker>.
 
----
+If you have suggestions or thoughts don't hesitate to open an issue
+or reach out to me via twitter: <@jjasghar>.
 
-# Solo
-
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
-
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+Thanks!

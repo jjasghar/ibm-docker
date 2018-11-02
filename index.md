@@ -11,7 +11,7 @@ layout: default
 
 ## Prerequisite
 
-You will need docker installed on your machine, or a place you can used the `docker pull` commands.
+You will need docker installed on your machine, or a place you can used the `docker run` commands.
 
 ## Containers
 
@@ -25,7 +25,7 @@ This container is everything you need for the [Kube101][kube101] class. It is as
 as possible and only gives you the minimal of what you need.
 
 ```shell
-docker pull jjasghar/ibm-cloud-cli
+docker run -it jjasghar/ibm-cloud-cli
 ```
 
 Based off of Alpine, it has the following to interface with the IBM Cloud. If you have any suggestions
@@ -41,7 +41,7 @@ or thoughts, don't hesitate to PR [here](https://github.com/jjasghar/ibm-cloud-c
 This container is everything you need for the [Kube101][kube101] and [Istio101][istio101] class.
 
 ```shell
-docker pull jjasghar/ibm-cloudnative-tools
+docker run -it jjasghar/ibm-cloudnative-tools
 ```
 
 It is based off of Debian, and the following to interface with the IBM Cloud. If you have any suggestions
@@ -59,7 +59,7 @@ or thoughts, don't hesitate to PR [here](https://github.com/jjasghar/ibm-cloudna
 This is the container with every integration I could find to talk to the IBM Cloud.
 
 ```shell
-docker pull jjasghar/ibm-cloud-tools
+docker run -it jjasghar/ibm-cloud-tools
 ```
 
 It is based off of Debian, and the following are all included in this container. If you have any suggestions
