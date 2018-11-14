@@ -45,7 +45,7 @@ docker run -it jjasghar/ibm-cloudnative-tools
 ```
 
 It is based off of Debian, and the following to interface with the IBM Cloud. If you have any suggestions
-or thoughts, don't hesitate to PR [here](https://github.com/jjasghar/ibm-cloudnative-cli).
+or thoughts, don't hesitate to PR [here](https://github.com/jjasghar/ibm-cloudnative-tools).
 
 - `git`
 - `helm`
